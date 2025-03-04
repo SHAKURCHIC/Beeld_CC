@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beeld_c", "Beeld_c\Beeld_c.csproj", "{F7B3334A-0EF8-46B4-8215-6BF0A3C37BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beeld_Tests", "Beeld_Tests\Beeld_Tests.csproj", "{ECCDAE44-C926-4551-B9BB-E606465D0778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B3334A-0EF8-46B4-8215-6BF0A3C37BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B3334A-0EF8-46B4-8215-6BF0A3C37BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B3334A-0EF8-46B4-8215-6BF0A3C37BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B3334A-0EF8-46B4-8215-6BF0A3C37BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECCDAE44-C926-4551-B9BB-E606465D0778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCDAE44-C926-4551-B9BB-E606465D0778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCDAE44-C926-4551-B9BB-E606465D0778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCDAE44-C926-4551-B9BB-E606465D0778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
